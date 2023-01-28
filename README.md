@@ -9,4 +9,4 @@
 - 🤔 Love Technology, thinking efficiently, Science (for sure 🔭), Playing some online games in my free time, Practicing English language and etc.
 - 📫 Checkout my website at www.matintaherzadeh.ir if you wanna reach me.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Every atom in your body comes from a star that exploded. {Lawrence M.Krauss}
+- ⚡ Fun fact: There are around 700 separate programming languages.
