@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<h1>Who am I?</h1>
-- 👦 My name's Matin and I'm a Web Developer and I've been freelancing for almost the last 3 years of my life.
+<div>
+  <h1>Who am I?</h1>
+  <p>
+    - 👦 My name's Matin and I'm a Web Developer and I've been freelancing for almost the last 3 years of my life.
+  </p>
+</div>
+
+
 - 🎂 I was born on September 1999.
 - ⌨️ I'm currently focused on a Private Repository and I've dedicated almost all of my work time to this private website project.
 - 🔭 I'm skilled in ReactJS and ASP.NET MVC and totally my main programming languages are JavaScript and CSharp. 
