@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **MatinT-SA/MatinT-SA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 Checkout my website at matintaherzadeh.ir if you wanna reach me.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Every atom in your body comes from a star that exploded. {Lawrence M.Krauss}
--->
