@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-**MatinT-SA/MatinT-SA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👦 Hi. My name's Matin and I'm a Web Developer and I work as a Freelancer for a couple of years.
+- 👦 My name's Matin and I'm a Web Developer and I work as a Freelancer for a couple of years.
 - 🎂 I was born in 1999.
 - 🔭 I'm skilled in ReactJS and ASP.NET MVC and totally my main programming languages are JavaScript and CSharp. 
 - 🌱 I’m currently learning ReactJS, Tailwindcss and WordPress. So, I'm kinda busy these days. 😅
