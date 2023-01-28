@@ -1,6 +1,8 @@
+<body>
+  
 ### Hi there 👋
 
-<div>
+<div class="who-am-i">
   <h1>Who am I?</h1>
   <p>
     - 👦 My name's Matin and I'm a Web Developer and I've been freelancing for almost the last 3 years of my life.
@@ -17,3 +19,11 @@
 - 📫 Checkout my website at www.matintaherzadeh.ir if you wanna reach me.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Every atom in your body comes from a star that exploded. {Lawrence M.Krauss}
+  
+  </body>
+
+<style>
+  .who-am-i h1{
+    color:red;
+  }
+</style>
