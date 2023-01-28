@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👦 My name's Matin and I'm a Web Developer and I work as a Freelancer for a couple of years.
+- 👦 My name's Matin and I'm a Web Developer and I've been freelancing for almost the last 3 years of my life.
 - 🎂 I was born in 1999.
 - 🔭 I'm skilled in ReactJS and ASP.NET MVC and totally my main programming languages are JavaScript and CSharp. 
 - 🌱 I’m currently learning ReactJS, Tailwindcss and WordPress. So, I'm kinda busy these days. 😅
