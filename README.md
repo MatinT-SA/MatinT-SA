@@ -36,3 +36,11 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical)
 
 ---
+
+## 📌 Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=repository-name&theme=radical)](https://github.com/matintaherzadeh/repository-name)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=another-repository&theme=radical)](https://github.com/matintaherzadeh/another-repository)
+
+---
