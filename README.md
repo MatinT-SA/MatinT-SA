@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 - 🌱 I’m currently mastering JS, learning React in depth, and starting to learn TypeScript. Aside from getting prepared for JS job opportunities I'm looking for, I'm kinda busy these days. 😅
 - 💻 I'm trying to master ReactJS which is my primary goal and also would love to learn NextJS in the future.
 - 🤔 I love Technology, thinking efficiently, Science (for sure 🔭), playing some online games in my free time, and practicing English for probably going abroad.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: There are around 700 separate programming languages.
 
 ---
 
@@ -51,15 +53,3 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 ## 🏆 Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MatinT-SA&theme=onedark)
-
----
-
-## 😄 Pronouns
-
-He/Him
-
----
-
-## ⚡ Fun Fact
-
-There are around 700 separate programming languages.
