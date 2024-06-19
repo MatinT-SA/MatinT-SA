@@ -41,6 +41,6 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=pig-dice-game&theme=radical)](https://github.com/MatinT-SA/pig-dice-game)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=another-repository&theme=radical)](https://github.com/matintaherzadeh/another-repository)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=Guess_The_Number&theme=radical)](https://github.com/MatinT-SA/Guess_The_Number)
 
 ---
