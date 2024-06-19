@@ -7,12 +7,19 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 ## 👦 About Me
 
 - 🎂 I was born in September 1999.
+
 - ⌨️ After finishing my Pig Dice Game repo, now I've dedicated almost all of my time working on the Banklist project.
+
 - 🔭 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress.
+
 - 🌱 I’m currently mastering JS, learning React in depth, and starting to learn TypeScript. Aside from getting prepared for JS job opportunities I'm looking for, I'm kinda busy these days. 😅
+
 - 💻 I'm trying to master ReactJS which is my primary goal and also would love to learn NextJS in the future.
+
 - 🤔 I love Technology, thinking efficiently, Science (for sure 🔭), playing some online games in my free time, and practicing English for probably going abroad.
+
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: There are around 700 separate programming languages.
 
 ---
