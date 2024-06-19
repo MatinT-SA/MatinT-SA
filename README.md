@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=MatinT-SA&color=brightgreen)
+
 - 👦 My name's Matin and I'm a Web Developer and I've been freelancing for almost the last 3 years of my life.
 - 🎂 I was born on September 1999.
 - ⌨️ After finishing a Private Repository (a WordPress website), now I'm currently focused on another Private Repository and I've dedicated almost all of my work time to this ASP.NET CORE (MVC) Web Application + SQL SERVER.
