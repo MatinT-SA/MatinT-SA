@@ -39,32 +39,9 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 ## 📌 Pinned Repositories
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-  <div style="width: 48%; margin-bottom: 20px;">
-    <a href="https://github.com/MatinT-SA/pig-dice-game">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=pig-dice-game&theme=radical" />
-    </a>
-  </div>
-
-  <div style="width: 48%; margin-bottom: 20px;">
-    <a href="https://github.com/MatinT-SA/Guess_The_Number">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=Guess_The_Number&theme=radical" />
-    </a>
-  </div>
-
-  <div style="width: 48%; margin-bottom: 20px;">
-    <a href="https://github.com/MatinT-SA/ThreeJS-portfolio">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=ThreeJS-portfolio&theme=radical" />
-    </a>
-  </div>
-
-  <div style="width: 48%; margin-bottom: 20px;">
-    <a href="https://github.com/MatinT-SA/fancy-restaurant">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=fancy-restaurant&theme=radical" />
-    </a>
-  </div>
-
-</div>
+- [Pig Dice Game](https://github.com/MatinT-SA/pig-dice-game) - A fun dice game project.
+- [Guess The Number](https://github.com/MatinT-SA/Guess_The_Number) - A number guessing game.
+- [ThreeJS Portfolio](https://github.com/MatinT-SA/ThreeJS-portfolio) - Portfolio website built with Three.js.
+- [Fancy Restaurant](https://github.com/MatinT-SA/fancy-restaurant) - A fancy restaurant website project.
 
 ---
