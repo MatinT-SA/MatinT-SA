@@ -37,12 +37,10 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 ---
 
-## 📝 Blog Posts
+## 📫 Connect with Me
 
-<!-- BLOG-POST-LIST:START -->
-- [How to build a full-stack application with React and ASP.NET CORE](https://yourblog.com/fullstack-react-aspnet-core)
-- [Understanding JavaScript Closures](https://yourblog.com/javascript-closures)
-- [Getting Started with Machine Learning](https://yourblog.com/machine-learning-intro)
-<!-- BLOG-POST-LIST:END -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TaherzadehMatin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matin-taherzadeh-sa/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matin_taherzadeh_sa/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/MatinTaherzadehShA/)
 
----
