@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=pig-dice-game&theme=radical)](https://github.com/matintaherzadeh/repository-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=pig-dice-game&theme=radical)](https://github.com/MatinT-SA/pig-dice-game)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=another-repository&theme=radical)](https://github.com/matintaherzadeh/another-repository)
 
