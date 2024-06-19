@@ -39,8 +39,6 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 ## 📫 Connect with Me
 
-## 📫 Connect with Me
-
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TaherzadehMatin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matin-taherzadeh-sa/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matin_taherzadeh_sa/)
