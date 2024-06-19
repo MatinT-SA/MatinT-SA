@@ -28,3 +28,11 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ---
+
+## 📈 GitHub Stats
+
+![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=matintaherzadeh&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matintaherzadeh&layout=compact&theme=radical)
+
+---
