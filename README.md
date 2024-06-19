@@ -37,11 +37,12 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 ---
 
-## 📌 Pinned Repositories
+## 📝 Blog Posts
 
-- [Pig Dice Game](https://github.com/MatinT-SA/pig-dice-game) - A fun dice game project.
-- [Guess The Number](https://github.com/MatinT-SA/Guess_The_Number) - A number guessing game.
-- [ThreeJS Portfolio](https://github.com/MatinT-SA/ThreeJS-portfolio) - Portfolio website built with Three.js.
-- [Fancy Restaurant](https://github.com/MatinT-SA/fancy-restaurant) - A fancy restaurant website project.
+<!-- BLOG-POST-LIST:START -->
+- [How to build a full-stack application with React and ASP.NET CORE](https://yourblog.com/fullstack-react-aspnet-core)
+- [Understanding JavaScript Closures](https://yourblog.com/javascript-closures)
+- [Getting Started with Machine Learning](https://yourblog.com/machine-learning-intro)
+<!-- BLOG-POST-LIST:END -->
 
 ---
