@@ -53,3 +53,13 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 ![trophy](https://github-profile-trophy.vercel.app/?username=MatinT-SA&theme=onedark)
 
 ---
+
+## 😄 Pronouns
+
+He/Him
+
+---
+
+## ⚡ Fun Fact
+
+There are around 700 separate programming languages.
