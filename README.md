@@ -39,16 +39,6 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=pig-dice-game&theme=radical)](https://github.com/MatinT-SA/pig-dice-game)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=Guess_The_Number&theme=radical)](https://github.com/MatinT-SA/Guess_The_Number)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=ThreeJS-portfolio&theme=radical)](https://github.com/MatinT-SA/ThreeJS-portfolio)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MatinT-SA&repo=Guess_The_Number&theme=radical)](https://github.com/MatinT-SA/Guess_The_Number)
-
-
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="flex-basis: 48%; margin-bottom: 10px;">
     <a href="https://github.com/MatinT-SA/pig-dice-game">
