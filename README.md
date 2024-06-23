@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 - 🔭 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress.
 
-- 🌱 I’m currently mastering JS, learning React in depth, and starting to learn TypeScript. Aside from getting prepared for JS job opportunities I'm looking for, I'm kinda busy these days. 😅
+- 🌱 I’m currently mastering JS, learning React in depth, and starting to learn TypeScript. Aside from getting prepared for JS job opportunities I'm looking for. Therefore, I'm kinda busy these days. 😅
 
 - 💻 I'm trying to master ReactJS which is my primary goal and also would love to learn NextJS in the future.
 
