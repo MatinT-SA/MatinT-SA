@@ -58,6 +58,17 @@
 
 ---
 
+## My Projects
+
+<p align="center">
+  <img src="https://github.com/MatinT-SA/Banklist" alt="MatinT-SA Banklist project" width="47 />
+  <img src="https://github.com/MatinT-SA/pig-dice-game" alt="MatinT-SA Pig Dice Game project" width="47" />
+<!-- - [Project 1](https://github.com/MatinT-SA/Banklist)
+- [Project 2](https://github.com/MatinT-SA/pig-dice-game) -->
+</p>
+
+---
+
 ## 📫 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TaherzadehMatin)
