@@ -62,10 +62,10 @@
 
 <p align="center">
   <a href="https://github.com/MatinT-SA/pig-dice-game">
-    <img src="https://github.com/MatinT-SA/MatinT-SA/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="47%" />
+    <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="47%" />
   </a>
   <a href="https://github.com/MatinT-SA/Banklist">
-    <img src="https://github.com/MatinT-SA/MatinT-SA/banklist.PNG" alt="MatinT-SA Banklist project" width="47%" />
+    <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="MatinT-SA Banklist project" width="47%" />
   </a>
 </p>
 
