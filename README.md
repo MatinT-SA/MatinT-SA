@@ -26,10 +26,10 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="MatinT-SA github-readme-stats" width="48%" height="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&show_icons=true&theme=radical" alt="MatinT-SA github-streaks-readme-stats" width="48%" height="100%">
-</p>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical)
 
