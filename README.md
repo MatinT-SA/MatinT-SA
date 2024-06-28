@@ -61,11 +61,11 @@
 ## Recent Projects
 
 <p align="center">
-  <a href="https://github.com/MatinT-SA/Banklist">
-    <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/images/pig game - linkedin.png" alt="MatinT-SA Banklist project" width="150" />
-  </a>
   <a href="https://github.com/MatinT-SA/pig-dice-game">
-    <img src="https://raw.githubusercontent.com/MatinT-SA/pig-dice-game/main/path-to-your-image.png" alt="MatinT-SA Pig Dice Game project" width="150" />
+    <img src="https://github.com/MatinT-SA/pig-dice-game/blob/main/pig-dice-game.png" alt="MatinT-SA Pig Dice Game project" width="47%" />
+  </a>
+  <a href="https://github.com/MatinT-SA/Banklist">
+    <img src="https://github.com/MatinT-SA/Banklist/blob/main/banklist.png" alt="MatinT-SA Banklist project" width="47%" />
   </a>
 </p>
 
