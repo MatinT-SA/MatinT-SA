@@ -31,8 +31,6 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
   <img src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&show_icons=true&theme=radical" alt="MatinT-SA github-streaks-readme-stats" width="48%">
 </p>
 
-![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinT-SA&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical)
 
 ---
