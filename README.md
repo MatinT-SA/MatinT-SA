@@ -24,6 +24,19 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&show_icons=true&theme=radical" alt="MatinT-SA github-readme-stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical" alt="MatinT-SA github-streaks-readme-stats" width="48%">
+</p>
+
+![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinT-SA&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical)
+
+---
+
 ## 🔧 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,14 +55,6 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-00D8FF?style=flat-square&logo=react&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinT-SA&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical)
 
 ---
 
