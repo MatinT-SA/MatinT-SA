@@ -74,4 +74,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=MatinT-SA&theme=onedark)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatinT-SA)
