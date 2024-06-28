@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-" alt="MatinT-SA github-readme-stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="MatinT-SA github-readme-stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical" alt="MatinT-SA github-streaks-readme-stats" width="48%">
 </p>
 
