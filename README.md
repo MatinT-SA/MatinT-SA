@@ -58,13 +58,11 @@
 
 ---
 
-## My Projects
+## Recent Projects
 
 <p align="center">
-  <img src="https://github.com/MatinT-SA/Banklist" alt="MatinT-SA Banklist project" width="47 />
+  <img src="https://github.com/MatinT-SA/Banklist" alt="MatinT-SA Banklist project" width="47" />
   <img src="https://github.com/MatinT-SA/pig-dice-game" alt="MatinT-SA Pig Dice Game project" width="47" />
-<!-- - [Project 1](https://github.com/MatinT-SA/Banklist)
-- [Project 2](https://github.com/MatinT-SA/pig-dice-game) -->
 </p>
 
 ---
