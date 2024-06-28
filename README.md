@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/MatinT-SA/Banklist">
-    <img src="https://raw.githubusercontent.com/MatinT-SA/Banklist/main/path-to-your-image.png" alt="MatinT-SA Banklist project" width="150" />
+    <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/images/pig game - linkedin.png" alt="MatinT-SA Banklist project" width="150" />
   </a>
   <a href="https://github.com/MatinT-SA/pig-dice-game">
     <img src="https://raw.githubusercontent.com/MatinT-SA/pig-dice-game/main/path-to-your-image.png" alt="MatinT-SA Pig Dice Game project" width="150" />
