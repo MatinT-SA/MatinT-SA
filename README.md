@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MatinT-SA&color=brightgreen)
 
 <div id="typed-container"></div>
-Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 years of freelancing experience.
 
 ## 👦 About Me
 
@@ -77,7 +76,7 @@ Welcome to my GitHub profile! I’m a passionate Web Developer with almost 5 yea
 <script>
   document.addEventListener('DOMContentLoaded', function(){
     new Typed('#typed-container', {
-      strings: ["Welcome to my GitHub profile!", "A passionate web developer."],
+      strings: ["Welcome to my GitHub profile!", "A passionate web developer.", "5+ years of freelancing experience"],
       typeSpeed: 50,
       backSpeed: 25,
       loop: true
