@@ -30,7 +30,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="MatinT-SA github-readme-stats" width="48%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&show_icons=true&theme=radical" alt="MatinT-SA github-streaks-readme-stats" width="48%">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatinT-SA" alt="MatinT-SA github-streaks-readme-stats" width="48%">
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical)
@@ -73,5 +73,3 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MatinT-SA&theme=onedark)
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatinT-SA)
