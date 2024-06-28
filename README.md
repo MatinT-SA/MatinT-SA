@@ -61,8 +61,12 @@
 ## Recent Projects
 
 <p align="center">
-  <img src="https://github.com/MatinT-SA/Banklist" alt="MatinT-SA Banklist project" width="47" />
-  <img src="https://github.com/MatinT-SA/pig-dice-game" alt="MatinT-SA Pig Dice Game project" width="47" />
+  <a href="https://github.com/MatinT-SA/Banklist">
+    <img src="https://img.shields.io/badge/Repo-Banklist-blue" alt="MatinT-SA Banklist project" width="47%" />
+  </a>
+  <a href="https://github.com/MatinT-SA/pig-dice-game">
+    <img src="https://img.shields.io/badge/Repo-Pig%20Dice%20Game-blue" alt="MatinT-SA Pig Dice Game project" width="47%" />
+  </a>
 </p>
 
 ---
