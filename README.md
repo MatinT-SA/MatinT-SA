@@ -61,19 +61,20 @@
 ## Recent Projects
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: top; border: 2px solid #ccc; border-radius: 8px; width: 45%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="display: inline-block; width: 48%; margin: 1%; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3>Pig Dice Game</h3>
     <a href="https://github.com/MatinT-SA/pig-dice-game">
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="100%" />
     </a>
   </div>
-  <div style="display: inline-block; vertical-align: top; border: 2px solid #ccc; border-radius: 8px; width: 45%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="display: inline-block; width: 48%; margin: 1%; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3>Banklist Project</h3>
     <a href="https://github.com/MatinT-SA/Banklist">
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="MatinT-SA Banklist project" width="100%" />
     </a>
   </div>
 </div>
+
 
 ---
 
