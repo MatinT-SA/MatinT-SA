@@ -68,16 +68,18 @@
     </a>
   </div>
   <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>Pig Dice Game</h3>
-    <a href="https://github.com/MatinT-SA/pig-dice-game">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="45%" />
-    </a>
+    <div align="center">
+      <h3>Pig Dice Game</h3>
+      <a href="https://github.com/MatinT-SA/pig-dice-game">
+        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="45%" />
+      </a>
+    </div>
+    <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <h3>Guess The Number</h3>
+      <a href="https://github.com/MatinT-SA/Guess_The_Number">
+        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/guess-the-number.PNG" alt="MatinT-SA Guess The Number" width="45%" />
+      </a>
   </div>
-  <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>Guess The Number</h3>
-    <a href="https://github.com/MatinT-SA/Guess_The_Number">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/guess-the-number.PNG" alt="MatinT-SA Guess The Number" width="45%" />
-    </a>
   </div>
 </div>
 
