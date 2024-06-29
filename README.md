@@ -60,21 +60,20 @@
 
 ## Recent Projects
 
-<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
-  <div style="flex: 0 0 45%; margin: 1%; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <div style="width: 45%; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; padding: 10px;">
     <h3 style="text-align: center;">Pig Dice Game</h3>
     <a href="https://github.com/MatinT-SA/pig-dice-game">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="100%" />
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="Pig Dice Game" width="100%" />
     </a>
   </div>
-  <div style="flex: 0 0 45%; margin: 1%; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <div style="width: 45%; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; padding: 10px;">
     <h3 style="text-align: center;">Banklist Project</h3>
     <a href="https://github.com/MatinT-SA/Banklist">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="MatinT-SA Banklist project" width="100%" />
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="Banklist Project" width="100%" />
     </a>
   </div>
 </div>
-
 
 ---
 
