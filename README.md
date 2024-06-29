@@ -60,58 +60,29 @@
 
 ## Recent Projects
 
-<style>
-  .project-card {
-    position: relative;
-    display: inline-block;
-    width: 45%;
-    margin: 10px;
-    border: 2px solid #ccc;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-  }
-  .project-card img {
-    width: 100%;
-    height: auto;
-    transition: opacity 0.3s ease;
-  }
-  .project-card:hover img {
-    opacity: 0.8;
-  }
-  .project-card .project-name {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: rgba(0, 0, 0, 0.7);
-    color: #fff;
-    padding: 5px;
-    text-align: center;
-    transition: transform 0.3s ease, opacity 0.3s ease;
-    transform: translateY(100%);
-    opacity: 0;
-  }
-  .project-card:hover .project-name {
-    transform: translateY(0);
-    opacity: 1;
-  }
-</style>
-
-<div style="text-align: center;">
-  <div class="project-card">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="position: relative; width: 45%; margin: 10px; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <a href="https://github.com/MatinT-SA/pig-dice-game">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="Pig Dice Game" />
-      <div class="project-name">Pig Dice Game</div>
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="Pig Dice Game" style="width: 100%; height: auto; transition: opacity 0.3s ease;">
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: #fff; opacity: 0; transition: opacity 0.3s ease;">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          Pig Dice Game
+        </div>
+      </div>
     </a>
   </div>
-  <div class="project-card">
+  <div style="position: relative; width: 45%; margin: 10px; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <a href="https://github.com/MatinT-SA/Banklist">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="Banklist Project" />
-      <div class="project-name">Banklist Project</div>
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="Banklist Project" style="width: 100%; height: auto; transition: opacity 0.3s ease;">
+      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: #fff; opacity: 0; transition: opacity 0.3s ease;">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
+          Banklist Project
+        </div>
+      </div>
     </a>
   </div>
 </div>
+
 
 
 ---
