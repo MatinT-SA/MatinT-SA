@@ -60,7 +60,7 @@
 
 ## Recent Projects
 
-<p align="center" style="display: flex;">
+<p align="center" display="flex">
   <a href="https://github.com/MatinT-SA/pig-dice-game">
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="45%" />
   </a>
