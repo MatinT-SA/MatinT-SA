@@ -67,16 +67,14 @@
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="MatinT-SA Banklist project" width="100%" />
     </a>
   </div>
-  <div align="center">
-    <h3>Pig Dice Game</h3>
+  <p align="center">
     <a href="https://github.com/MatinT-SA/pig-dice-game">
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="45%" />
     </a>
-    <h3>Guess The Number</h3>
     <a href="https://github.com/MatinT-SA/Guess_The_Number">
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/guess-the-number.PNG" alt="MatinT-SA Guess The Number" width="45%" />
     </a>
-  </div>
+  </p>
 </div>
 
 
