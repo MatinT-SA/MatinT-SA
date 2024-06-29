@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/MatinT-SA/pig-dice-game">
-    <span style="display: inline-block; border: 3px dashed red;">
+    <span style="display: inline-block; border: 3px dashed red;"> Pig Dice Game
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="45%" />
     </span>
   </a>
