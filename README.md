@@ -70,13 +70,13 @@
   <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3>Pig Dice Game</h3>
     <a href="https://github.com/MatinT-SA/pig-dice-game">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="100%" />
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="45%" />
     </a>
   </div>
   <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3>Third Project</h3>
     <a href="https://github.com/MatinT-SA/third-project">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/third-project.PNG" alt="MatinT-SA Third Project" width="100%" />
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/third-project.PNG" alt="MatinT-SA Third Project" width="45%" />
     </a>
   </div>
 </div>
