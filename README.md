@@ -60,28 +60,14 @@
 
 ## Recent Projects
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="position: relative; width: 45%; margin: 10px; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <a href="https://github.com/MatinT-SA/pig-dice-game">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="Pig Dice Game" style="width: 100%; height: auto; transition: opacity 0.3s ease;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: #fff; opacity: 0; transition: opacity 0.3s ease;">
-        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-          Pig Dice Game
-        </div>
-      </div>
-    </a>
-  </div>
-  <div style="position: relative; width: 45%; margin: 10px; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <a href="https://github.com/MatinT-SA/Banklist">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="Banklist Project" style="width: 100%; height: auto; transition: opacity 0.3s ease;">
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: #fff; opacity: 0; transition: opacity 0.3s ease;">
-        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-          Banklist Project
-        </div>
-      </div>
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/MatinT-SA/pig-dice-game">
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="45%" />
+  </a>
+  <a href="https://github.com/MatinT-SA/Banklist">
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="MatinT-SA Banklist project" width="45%" />
+  </a>
+</p>
 
 
 
