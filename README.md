@@ -61,7 +61,7 @@
 ## Recent Projects
 
 <p align="center">
-  <a href="https://github.com/MatinT-SA/pig-dice-game">
+  <a href="https://github.com/MatinT-SA/pig-dice-game" style="border: 3px solid red;">
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="45%" />
   </a>
   <a href="https://github.com/MatinT-SA/Banklist">
