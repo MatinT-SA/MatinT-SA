@@ -60,16 +60,8 @@
 
 ## Recent Projects
 
-<p align="center">
-  <a href="https://github.com/MatinT-SA/pig-dice-game">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="45%" />
-  </a>
-  <a href="https://github.com/MatinT-SA/Banklist">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="MatinT-SA Banklist project" width="45%" />
-  </a>
-</p>
-
-
+- [Pig Dice Game](https://example.com/pig-dice-game-demo)
+- [Banklist Project](https://example.com/banklist-project-demo)
 
 ---
 
