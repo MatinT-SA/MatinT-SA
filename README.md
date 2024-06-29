@@ -60,7 +60,7 @@
 
 ## Recent Projects
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
   <div style="margin: 1%; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3 style="text-align: center;">Pig Dice Game</h3>
     <a href="https://github.com/MatinT-SA/pig-dice-game">
