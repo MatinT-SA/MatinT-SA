@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
 ### Hi there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MatinT-SA&color=brightgreen)
