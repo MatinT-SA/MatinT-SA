@@ -60,20 +60,59 @@
 
 ## Recent Projects
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <div style="width: 45%; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; padding: 10px;">
-    <h3 style="text-align: center;">Pig Dice Game</h3>
+<style>
+  .project-card {
+    position: relative;
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  .project-card img {
+    width: 100%;
+    height: auto;
+    transition: opacity 0.3s ease;
+  }
+  .project-card:hover img {
+    opacity: 0.8;
+  }
+  .project-card .project-name {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  .project-card:hover .project-name {
+    transform: translateY(0);
+    opacity: 1;
+  }
+</style>
+
+<div style="text-align: center;">
+  <div class="project-card">
     <a href="https://github.com/MatinT-SA/pig-dice-game">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="Pig Dice Game" width="100%" />
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="Pig Dice Game" />
+      <div class="project-name">Pig Dice Game</div>
     </a>
   </div>
-  <div style="width: 45%; border: 2px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px; padding: 10px;">
-    <h3 style="text-align: center;">Banklist Project</h3>
+  <div class="project-card">
     <a href="https://github.com/MatinT-SA/Banklist">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="Banklist Project" width="100%" />
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="Banklist Project" />
+      <div class="project-name">Banklist Project</div>
     </a>
   </div>
 </div>
+
 
 ---
 
