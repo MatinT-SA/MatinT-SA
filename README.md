@@ -67,8 +67,9 @@
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="MatinT-SA Banklist project" width="70%" />
     </a>
   </div>
-  <br /><br />
+  <br />
   <p align="center">
+    <h3>Previous Repos</h3>
     <a href="https://github.com/MatinT-SA/pig-dice-game">
         <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="34%" />
     </a>
