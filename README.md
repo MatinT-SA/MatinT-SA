@@ -36,7 +36,7 @@
 
 <br />
 
-[![MatinT-SA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA&theme=vue)](https://github.com/MatinT-SA/github-readme-activity-graph)
+[![MatinT-SA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA&theme=github-light)](https://github.com/MatinT-SA/github-readme-activity-graph)
 
 ---
 
