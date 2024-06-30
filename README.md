@@ -33,12 +33,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatinT-SA&theme=dracula" alt="MatinT-SA github-streaks-readme-stats" width="48%">
 </div>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical" alt="top langs" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=MatinT-SA&theme=react-dark" alt="graphs" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical" alt="top langs" width="48%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=MatinT-SA&theme=react-dark" alt="GitHub Activity Graph" width="48%" />
+</div>
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical) -->
 <!--   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark) -->
-</div>
 
 ---
 
