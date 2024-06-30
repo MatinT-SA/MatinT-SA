@@ -35,8 +35,8 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical" alt="top langs" width="48%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=MatinT-SA&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MatinT-SA&theme=react-dark" alt="GitHub Activity Graph" width="48%" />
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical) -->
 <!--   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark) -->
 
