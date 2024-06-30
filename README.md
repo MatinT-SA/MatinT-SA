@@ -70,7 +70,7 @@
   <br /><br />
   <p align="center">
     <a href="https://github.com/MatinT-SA/pig-dice-game">
-      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="34%" />
+      <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="34%" style="margin-right: 20px;" />
     </a>
     <a href="https://github.com/MatinT-SA/Guess_The_Number">
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/guess-the-number.PNG" alt="MatinT-SA Guess The Number" width="34%" />
