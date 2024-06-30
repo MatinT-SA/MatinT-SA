@@ -29,9 +29,9 @@
 ## 📈 GitHub Stats
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&theme=dracula&layout=compact" alt="MatinT-SA github-readme-stats" width="33.33%">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatinT-SA&theme=dracula" alt="MatinT-SA github-streaks-readme-stats" width="33.33%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical" alt="top langs" width="33.33%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&theme=dracula&layout=compact" alt="MatinT-SA github-readme-stats" width="33%">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatinT-SA&theme=dracula" alt="MatinT-SA github-streaks-readme-stats" width="33%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical" alt="top langs" width="33%" />
 </div>
 <br />
 [![MatinT-SA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA)](https://github.com/MatinT-SA/github-readme-activity-graph)
