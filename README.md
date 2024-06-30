@@ -38,7 +38,8 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=MatinT-SA&theme=react-dark" alt="GitHub Activity Graph" /> -->
 </div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatinT-SA&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatinT-SA&theme=github)
+
 
 
 <!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=radical) -->
