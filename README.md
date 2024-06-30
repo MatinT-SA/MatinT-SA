@@ -38,7 +38,7 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=MatinT-SA&theme=react-dark" alt="GitHub Activity Graph" /> -->
 </div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatinT-SA&theme=github)
+[![MatinT-SA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA)](https://github.com/MatinT-SA/github-readme-activity-graph)
 
 
 
