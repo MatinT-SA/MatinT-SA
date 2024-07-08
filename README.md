@@ -10,7 +10,7 @@
 
 - 🎂 I was born in September 1999.
 
-- ⌨️ After finishing Pig Dice Game, now I've dedicated almost all of my time to the Banklist project and working more on its features.
+- ⌨️ After finishing Banklist project, now I've dedicated almost all of my time to mastering JS concepts in depth plus learning TypeScript.
 
 - 🔭 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress.
 
