@@ -30,7 +30,7 @@
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="46%">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatinT-SA&theme=react" alt="MatinT-SA github-streaks-readme-stats" width="51%">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatinT-SA&theme=react" alt="MatinT-SA github-streaks-readme-stats" width="53%">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=react" alt="top langs" width="47%" /> -->
 </div>
 
