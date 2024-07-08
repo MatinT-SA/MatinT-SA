@@ -29,7 +29,7 @@
 ## 📈 GitHub Stats
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&theme=react&layout=compact" alt="MatinT-SA github-readme-stats" width="30%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?usernameMatinT-SA&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="30%">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MatinT-SA&theme=react" alt="MatinT-SA github-streaks-readme-stats" width="39%">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=react" alt="top langs" width="30%" />
 </div>
