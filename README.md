@@ -8,9 +8,9 @@
 
 - 🎂 I was born in September 1999.
 
-- ⌨️ After finishing Banklist project, now I've dedicated almost all of my time to mastering JS concepts in depth plus learning TypeScript.
+- ⌨️ After finishing Banklist project, now I've dedicated almost all of my time to cinpulse repo plus learning TypeScript.
 
-- 🔭 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress.
+- 🔭 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress. But for the past years, I'm concentrated on JS.
 
 - 🌱 I’m currently mastering JS, learning React in depth, and starting to learn TypeScript. Aside from getting prepared for JS job opportunities I'm looking for. Therefore, I'm kinda busy these days. 😅
 
