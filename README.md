@@ -8,7 +8,7 @@
 
 - 🎂 I was born in September 1999.
 
-- ⌨️ After finishing Banklist project, now I've dedicated almost all of my time to cinpulse repo.
+- ⌨️ After finishing Banklist project, now I've dedicated almost all of my time to banklist-website repo.
 
 - 🔭 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress. But for the past years, I'm concentrated on JS.
 
