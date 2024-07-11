@@ -8,7 +8,7 @@
 
 - 🎂 I was born in September 1999.
 
-- ⌨️ After finishing Banklist project, now I've dedicated almost all of my time to banklist-website repo.
+- ⌨️ After finishing banklist-web-app project, now I've dedicated almost all of my time to banklist-website repo.
 
 - 🔭 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress. But for the past years, I'm concentrated on JS.
 
@@ -67,7 +67,7 @@
 
 <div align="center">
   <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>Banklist Project</h3>
+    <h3>banklist-web-app Project</h3>
     <a href="https://github.com/MatinT-SA/Banklist">
       <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="MatinT-SA Banklist project" width="70%" />
     </a>
