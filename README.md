@@ -103,5 +103,5 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/15693922/matin)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matin.taherzadeh.mmtsa@gmail.com)
 
-![Wave](https://img.shields.io/badge/wave-👋-blue?style=flat-square)
 
+![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
