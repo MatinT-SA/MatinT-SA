@@ -1,12 +1,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MatinT-SA&color=brightgreen)
 
 <p align="center">
-  <p>
-      <img src="https://readme-typing-svg.demolab.com?    font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" width="49%" />
+  <p width="48%">
+      <img src="https://readme-typing-svg.demolab.com?    font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" />
   </p>
 
-  <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="49%" alt="Waving Hand">
+  <p width="49%">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand">
   </p>
 </p>
 
