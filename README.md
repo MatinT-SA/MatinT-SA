@@ -102,3 +102,14 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Matin_T_1999)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/15693922/matin)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matin.taherzadeh.mmtsa@gmail.com)
+
+<svg width="100%" height="120" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="100" height="10" fill="url(#gradient)" />
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#50faaa;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#fa50e3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <animate attributeName="x" from="0" to="100" dur="2s" repeatCount="indefinite" />
+</svg>
