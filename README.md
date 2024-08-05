@@ -104,5 +104,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matin.taherzadeh.mmtsa@gmail.com)
 
 
-![Cute Programmer](https://media.giphy.com/media/3o7aD27jwmLtm6TmF6/giphy.gif)
+![Animated Programmer Desk](https://media.giphy.com/media/5KgeD73f5HzyhW5Esm/giphy.gif)
+
 
