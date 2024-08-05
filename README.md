@@ -4,10 +4,6 @@
   <div style="flex: 0 0 60%; text-align: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" style="width:100%;" />
   </div>
-  
-  <div style="flex: 0 0 25%; text-align: center;">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:100%;" alt="Waving Hand">
-  </div>
 </div>
 
 ## 👦 About Me
