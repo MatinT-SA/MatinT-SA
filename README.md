@@ -104,5 +104,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matin.taherzadeh.mmtsa@gmail.com)
 
 
-![Waving Cat](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
+![Waving Stick Figure](https://media.giphy.com/media/l4FGJ6ZNnp43RAuTS/giphy.gif)
+
 
