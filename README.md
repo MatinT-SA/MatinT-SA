@@ -1,6 +1,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MatinT-SA&color=brightgreen)
 
 <!--waving hand-->
+
+<div style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" width="34%" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="100px" />
+</div>
+
+<!--
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?        font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" width="34%" />
     
@@ -8,6 +15,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="100px" />
 </div>
 </p>
+-->
 
 <!--
 <div style="display: flex; justify-content: space-between; align-items: center;">
