@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MatinT-SA&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Birth_Year-1999-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Learning-JavaScript%20%26%20ReactJS-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
@@ -11,7 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" width="84%" />
 </div>
 
-<img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="500" />
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="500" />
+</p>
 
 ## 👦 About Me
 
