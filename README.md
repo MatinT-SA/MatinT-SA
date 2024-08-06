@@ -1,5 +1,5 @@
 <p>
-  <img src="https://komarev.com/ghpvc/?username=MatinT-SA&color=magenta" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
+  <img src="https://komarev.com/ghpvc/?username=MatinT-SA&color=green" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Birth_Year-1999-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Learning-JavaScript%20%26%20ReactJS-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking%20%26%20ReactJS-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
