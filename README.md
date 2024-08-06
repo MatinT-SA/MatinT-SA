@@ -1,21 +1,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MatinT-SA&color=brightgreen)
 
-<!--comment-->
+<!--waving hand-->
 <p align="center">
-    <h3>Previous Repos</h3>
-    <a href="https://github.com/MatinT-SA/banklist-web-app">
-        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/banklist.PNG" alt="MatinT-SA Banklist Web App" width="34%" />
-    </a>
-    <a href="https://github.com/MatinT-SA/pig-dice-game">
-        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/pig-dice-game.PNG" alt="MatinT-SA Pig Dice Game project" width="34%" />
-    </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" width="34%" />
+    
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="34%">
   </p>
 
+<!--
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 0 0 60%; text-align: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" style="width:100%;" />
   </div>
 </div>
+-->
 
 ## 👦 About Me
 
