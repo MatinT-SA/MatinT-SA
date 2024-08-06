@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="400" />
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Boy Programming" width="300" />
 </p>
 
 ## 👦 About Me
