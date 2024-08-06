@@ -5,31 +5,13 @@
   <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
 </p>
 
-<!--waving hand-->
-
 <div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="15%" />
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" width="84%" />
 </div>
 
-<!--
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?        font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" width="34%" />
-    
-<div>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="100px" />
-</div>
-</p>
--->
-
-<!--
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 0 0 60%; text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=500&size=30&duration=2500&pause=400&color=7B7B7B&background=FFFFFF68&center=true&vCenter=true&random=false&width=500&height=60&lines=Welcome+to+my+GitHub+profile!;A+Passsionate+web+developer;5%2B+years+of+freelancing+experience" style="width:100%;" />
-  </div>
-</div>
--->
+![Boy Programming](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
 
 ## 👦 About Me
 
@@ -119,6 +101,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Matin_T_1999)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/15693922/matin)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matin.taherzadeh.mmtsa@gmail.com)
-
-
-![Boy Programming](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
