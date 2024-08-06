@@ -33,21 +33,11 @@
 
 ## 👦 About Me
 
-- 🎂 I was born in September 1999.
+- 👩‍💻 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress. But for the past years, I'm concentrated on JS.
+
+- 💻 I love Technology, thinking efficiently, Science (for sure 🔭), playing some online games in my free time, and practicing English for going abroad.
 
 - ⌨️ After finishing banklist-website project, now I've dedicated my time to master fundamental concepts in JavaScript.
-
-- 🔭 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress. But for the past years, I'm concentrated on JS.
-
-- 🌱 I’m currently mastering JS, learning React in depth, and starting to learn TypeScript. Aside from getting prepared for JS job opportunities I'm looking for. Therefore, I'm kinda busy these days. 😅
-
-- 💻 I'm trying to master ReactJS which is my primary goal and also would love to learn NextJS in the future.
-
-- 🤔 I love Technology, thinking efficiently, Science (for sure 🔭), playing some online games in my free time, and practicing English for probably going abroad.
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: There are around 700 separate programming languages.
 
 ---
 
