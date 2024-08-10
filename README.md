@@ -17,9 +17,9 @@
 
 ## 👦 About Me
 
-- 👩‍💻 I'm skilled in ReactJS and .NET, and my main programming languages are JavaScript and C#. I've also worked with WordPress. But for the past years, I'm concentrated on JS.
+- 👩‍💻 Front-End Developer with a primary focus on JavaScript and ReactJS, and some experience with C# (.NET) and WordPress.
 
-- 💻 I love Technology, thinking efficiently, Science (for sure 🔭), playing some online games in my free time, and practicing English for going abroad.
+- 💻 I love Technology, thinking efficiently, Science and in my free time, I play some online games or practice English for going abroad.
 
 - ⌨️ After finishing banklist-website project, now I've dedicated my time to TrackMap repository.
 
