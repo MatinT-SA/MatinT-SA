@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science (for sure 🔭), playing some online games in my free time, and practicing English for going abroad.
 
-- ⌨️ After finishing banklist-website project, now I've dedicated my time to master fundamental concepts in JavaScript.
+- ⌨️ After finishing banklist-website project, now I've dedicated my time to TrackMap repository.
 
 ---
 
