@@ -19,7 +19,7 @@
 
 - 👩‍💻 Front-End Developer with a primary focus on JavaScript and ReactJS, and some experience with C# (.NET) and WordPress.
 
-- 💻 I love Technology, thinking efficiently, Science and in my free time, I play some online games or practice English for going abroad.
+- 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English for going abroad.
 
 - ⌨️ After finishing banklist-website project, now I've dedicated my time to TrackMap repository.
 
