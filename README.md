@@ -1,4 +1,5 @@
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatinT-SA)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MatinT-SA&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
