@@ -28,15 +28,15 @@
 ## 📈 GitHub Stats
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react&card_width=350" alt="MatinT-SA github-readme-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact&card_width=350" alt="MatinT-SA github-streaks-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react&card_width=48%" alt="MatinT-SA github-readme-stats" />
+  <img align="center" src="https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact&card_width=51%" alt="MatinT-SA github-streaks-readme-stats" />
 </div>
 
 <br />
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA&theme=merko" alt="MatinT-SA github readme activity graph" width="60%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=react&card_width=39%" alt="MatinT-SA github readme top-langs" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA&theme=merko&card_width=60%" alt="MatinT-SA github readme activity graph" />
 </div>
 
 <br />
