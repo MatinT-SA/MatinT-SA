@@ -23,7 +23,7 @@
 
 - ⌨️ After finishing banklist-website project, now I've dedicated my time to wrap up TrackMap repository.
 
----
+***
 
 ## 📈 GitHub Stats
 
