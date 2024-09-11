@@ -28,8 +28,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" height="30%">
-  <img src="https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact" alt="MatinT-SA github-streaks-readme-stats" width="51%" height="30%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" height="30%">
+  <img align="center" src="https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact" alt="MatinT-SA github-streaks-readme-stats" height="30%">
 </div>
 
 <br />
