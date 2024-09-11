@@ -35,8 +35,8 @@
 <br />
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=react&card_width=100" alt="MatinT-SA github readme top-langs" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA&theme=merko&card_width=200" alt="MatinT-SA github readme activity graph" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=react&card_width=300" alt="MatinT-SA github readme top-langs" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA&theme=merko" alt="MatinT-SA github readme activity graph" width="400" />
 </div>
 
 <br />
