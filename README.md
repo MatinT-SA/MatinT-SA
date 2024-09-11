@@ -27,7 +27,7 @@
 
 ## 📈 GitHub Stats
 
-<div display="flex">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%">
   <img src="https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact" alt="MatinT-SA github-streaks-readme-stats" width="51%">
 </div>
