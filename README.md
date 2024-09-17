@@ -27,12 +27,11 @@
 
 ## 📈 GitHub Stats
 
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" />
-  <img align="left" src="https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact" alt="MatinT-SA github-streaks-readme-stats" />
-
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react&card_width=395" alt="MatinT-SA github-readme-stats" />
+  <img align="center" src="https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact&card_width=400" alt="MatinT-SA github-streaks-readme-stats" />
+</div>
 <br />
-
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=react&card_width=370" alt="MatinT-SA github readme top-langs" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MatinT-SA&theme=merko" alt="MatinT-SA github readme activity graph" width="470" />
