@@ -27,10 +27,9 @@
 
 ## 📈 GitHub Stats
 
-<div>
+
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" />
   <img align="right" src="https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact" alt="MatinT-SA github-streaks-readme-stats" />
-</div>
 
 <br />
 
