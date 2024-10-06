@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English and reading article.
 
-- ⌨️ After finishing banklist-website project, now I've dedicated my time to wrap up TrackMap repository.
+- ⌨️ After finishing Track Map project, now I've dedicated my time to Findish repository.
 
 ***
 
