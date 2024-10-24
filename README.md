@@ -19,7 +19,7 @@
 
 - 👩‍💻 Front-End Developer with a primary focus on `JavaScript` and `ReactJS`, and some experience with C# (.NET) and WordPress.
 
-- 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English and reading article.
+- 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English and reading articles.
 
 - ⌨️ After finishing Track Map project, now I've dedicated my time to Findish repository.
 
