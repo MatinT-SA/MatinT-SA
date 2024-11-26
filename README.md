@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English and reading articles.
 
-- ⌨️ After completing Pizza Plaza project, now I've dedicated my time to luggage-list repository.
+- ⌨️ After completing Luggage List project, now I've dedicated my time to share-split repository.
 
 ***
 
