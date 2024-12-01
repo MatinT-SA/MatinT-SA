@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English and reading articles.
 
-- ⌨️ After completing Split Share project, now I've dedicated my time to master ReactJS in depth.
+- ⌨️ After completing Share Split project, now I've dedicated my time to master ReactJS in depth.
 
 ***
 
