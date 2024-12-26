@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English and reading articles.
 
-- ⌨️ After completing Goal Tracker project, now I've dedicated my time to Rateflicks repository.
+- ⌨️ After completing Goal Tracker project, now I've dedicated my time to Rateflicks and another private repository.
 
 ***
 
