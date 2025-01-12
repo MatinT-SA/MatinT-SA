@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English and reading articles.
 
-- ⌨️ After completing Rateflicks project, now I've dedicated my time to master React.
+- ⌨️ After completing Rateflicks project, now I've dedicated my time to a private repo.
 
 ***
 
