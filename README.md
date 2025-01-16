@@ -28,7 +28,7 @@
 ## 📈 GitHub Stats
 
 <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MatinT-SA&hide_border=true&border_radius=20&ring=DEEB29&background=50%2C6D038F%2C070E8C&dates=EBDFDE&fire=EBB10E&stroke=8013EB&currStreakNum=EB1118&sideNums=EBAAD5&currStreakLabel=EB4555&sideLabels=EBAAD5" alt="MatinT-SA github-streaks-readme-stats" width="51%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=MatinT-SA&theme=merko" width="51%" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
 </div>
 <br />
