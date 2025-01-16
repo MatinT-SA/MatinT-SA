@@ -62,16 +62,16 @@
 
 <div align="center">
   <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>Goal Tracker Project</h3>
-    <a href="https://github.com/MatinT-SA/goal-tracker">
-        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/goal-tracker.png" alt="MatinT-SA Goal Tracker" width="70%" />
+    <h3>Rateflicks Project</h3>
+    <a href="https://github.com/MatinT-SA/Rateflicks">
+        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/rateflicks.png" alt="MatinT-SA Rateflicks" width="70%" />
     </a>
   </div>
   <br />
   <p align="center">
     <h3>Previous Repos</h3>
-    <a href="https://github.com/MatinT-SA/luggage-list">
-        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/luggage-list.png" alt="MatinT-SA Luggage List" width="34%" />
+    <a href="https://github.com/MatinT-SA/goal-tracker">
+        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/goal-tracker.png" alt="MatinT-SA Goal Tracker" width="34%" />
     </a>
     <a href="https://github.com/MatinT-SA/share-split">
         <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/share-split-1.png" alt="MatinT-SA Share Split" width="34%" />
