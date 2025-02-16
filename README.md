@@ -64,7 +64,7 @@
   <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h3>Travex Project</h3>
     <a href="https://github.com/MatinT-SA/travex">
-        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/travex.pnj" alt="MatinT-SA Travex" width="70%" />
+        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/travex.png" alt="MatinT-SA Travex" width="70%" />
     </a>
   </div>
   <br />
