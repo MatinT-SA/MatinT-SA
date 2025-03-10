@@ -64,16 +64,16 @@
 
 <div align="center">
   <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>Travex Project</h3>
-    <a href="https://github.com/MatinT-SA/travex">
-        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/travex.png" alt="MatinT-SA Travex" width="70%" />
+    <h3>Zesty Project</h3>
+    <a href="https://github.com/MatinT-SA/zesty">
+        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/zesty.png" alt="MatinT-SA Zesty" width="70%" />
     </a>
   </div>
   <br />
   <p align="center">
     <h3>Previous Repos</h3>
-    <a href="https://github.com/MatinT-SA/goal-tracker">
-        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/goal-tracker.png" alt="MatinT-SA Goal Tracker" width="34%" />
+    <a href="https://github.com/MatinT-SA/travex">
+        <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/travex.png" alt="MatinT-SA Travex" width="34%" />
     </a>
     <a href="https://github.com/MatinT-SA/Rateflicks">
         <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/rateflicks.png" alt="MatinT-SA Rateflicks" width="34%" />
