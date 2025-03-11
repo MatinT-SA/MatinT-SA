@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English and reading articles.
 
-- ⌨️ After completing Zesty project, now I've dedicated my time to master React library.
+- ⌨️ After completing Zesty project, now I've dedicated my time to the stelix repo.
 
 ***
 
