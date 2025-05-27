@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time, playing some online games or practicing English and reading articles.
 
-- ⌨️ After completing Stelix project, now I've dedicated my time to master Nextjs framework by working on stelix-website repo.
+- ⌨️ After completing Ava project (internship project), now I've dedicated my time to master Nextjs framework by working on stelix-website repo.
 
 ---
 
