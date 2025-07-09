@@ -19,7 +19,7 @@
 
 - 👩‍💻 Front-End Developer fully dedicated to JavaScript and ReactJS, with early career experience in C# (.NET) and WordPress.
 
-- 💻 I love Technology, thinking efficiently, Science and in my free time playing some online games or practicing English and reading articles.
+- 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
 
 - ⌨️ After completing Ava project (internship project), now I've dedicated my time to master Nextjs framework by working on stelix-website repo.
 
