@@ -17,7 +17,7 @@
 
 ## 👦 About Me
 
-- 👩‍💻 Front-End Developer fully dedicated to JavaScript and ReactJS, with early career experience in C# (.NET) and WordPress.
+- 👩‍💻 Front-End Developer fully dedicated to JavaScript -> ReactJS | Next.js | Tailwindcss ■ With early career experience in C# (.NET) and WordPress.
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
 
