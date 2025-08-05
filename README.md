@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
 
-- ⌨️ After completing Stelix Website project, now I've dedicated my time to master Nextjs framework & refactoring my personal website with React + Next.js + Tailwindcss & doing code challenge of NAK company for job application.
+- ⌨️ After completing Stelix Website project, now I've dedicated my time to master Nextjs framework & refactoring my personal website with React + Next.js + Tailwindcss.
 
 ---
 
