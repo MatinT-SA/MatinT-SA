@@ -29,7 +29,6 @@
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=MatinT-SA&theme=react" width="51%" />
-  https://github-readme-stats-matin.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react
   <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=MatinT-SA&layout=compact&show_icons=true&theme=react" alt="MatinT-SA github-readme-stats" width="48%" />
 </div>
 <br />
