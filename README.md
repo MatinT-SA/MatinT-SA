@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
 
-- ⌨️ After completing Rira-currency-converter project as a trainee task for RIRA company, now I've dedicated my time to master Nextjs framework & refactoring my personal website with React + Next.js + Tailwindcss
+- ⌨️ After completing happy-birthday-dad project, now I've dedicated my time to master Nextjs framework & refactoring my personal website with React + Next.js + Tailwindcss
 
 ---
 
