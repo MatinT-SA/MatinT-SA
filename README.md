@@ -87,7 +87,7 @@
 
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy-xi-taupe.vercel.app/?username=MatinT-SA&theme=onedark&margin-w=15&no-frame=true&v=1)
+![trophy](https://github-profile-trophy-xi-taupe.vercel.app/?username=MatinT-SA&theme=onedark&margin-w=15&no-frame=true&v=2)
 
 ---
 
