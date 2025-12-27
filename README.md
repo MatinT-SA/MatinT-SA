@@ -66,7 +66,7 @@
 
 <div align="center">
   <div style="display: inline-block; border: 2px solid #ccc; border-radius: 8px; width: 30%; margin: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <h3>Personal Website Project</h3>
+    <h3>Personal Website Project (v2)</h3>
     <a href="https://github.com/MatinT-SA/personal-website">
         <img src="https://raw.githubusercontent.com/MatinT-SA/MatinT-SA/main/personal-website.PNG" alt="Personal Website" width="70%" />
     </a>
