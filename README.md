@@ -87,7 +87,7 @@
 
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=MatinT-SA&theme=onedark&no-frame=true&margin-w=6)
+![trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=MatinT-SA&theme=onedark&no-frame=true&margin-w=10&row=1)
 
 ---
 
