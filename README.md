@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=MatinT-SA&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Birth_Year-1999-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Learning-TypeScript-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Job_Status-Open_to_the_Right_Opportunity-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center;">
