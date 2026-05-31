@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
 
-- ⌨️ After completing refactoring personal-website project, now I've dedicated my time to master Nextjs framework and learn TypeScript alongside efforts for getting hired.
+- ⌨️ Front-End Developer at Arnavision, contributing to production web applications while continuing to explore Next.js, TypeScript and modern front-end architecture.
 
 ---
 
