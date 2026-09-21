@@ -21,7 +21,7 @@
 
 - 💻 I love Technology, thinking efficiently, Science and in my free time playing some games or practicing English and reading articles.
 
-- ⌨️ Front-End Developer at Arnavision, contributing to production web applications while continuing to explore Next.js, TypeScript and modern front-end architecture.
+- ⌨️ Currently working on personal projects while deepening my knowledge of TypeScript, Next.js and modern front-end architecture.
 
 ---
 
