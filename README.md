@@ -34,7 +34,7 @@
 <br />
 <div>
   <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=MatinT-SA&layout=compact&theme=react" alt="MatinT-SA github readme top-langs" width="39%" />
-  <img align="center" src="https://github.com/MatinT-SA/github-streaks/blob/main/assets/Streaks/streak-ocean.svg?raw=true" alt="GitHub Streak" />
+   <img align="center" src="https://github.com/MatinT-SA/github-streaks/blob/main/assets/Streaks/streak-ocean.svg?raw=true" alt="GitHub Streak" width="59%" />
 </div>
 
 <br />
